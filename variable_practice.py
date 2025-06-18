@@ -1,4 +1,4 @@
 x = 5
-y = "John"
+square = "John"
 print(x)
-print(y)
+print(square)
